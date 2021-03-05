@@ -26,10 +26,13 @@ Thank you for visiting my profile here on github and for wanting to know a littl
 
 ## 🎬 Examples of Work
 <div>
-  <td><img src="https://github.com/alxlima/Glozzom/blob/main/screens_shot/00.gif" width="256" /> </td>
+  <img src="https://github.com/alxlima/Glozzom/blob/main/screens_shot/00.gif" width="256" />
+  <img src="https://github.com/alxlima/MizuxeBookTheme/blob/main/prints/00.gif" width="256" />
+  <img src="https://github.com/alxlima/MizuxeBookTheme/blob/main/prints/00.gif" width="256" />
+  <img src="https://github.com/alxlima/MizuxeBookTheme/blob/main/prints/00.gif" width="256" />
 </div>
 <div>  
-  <td><img src="https://github.com/alxlima/MizuxeBookTheme/blob/main/prints/00.gif" width="256" /></td>
+  <img src="https://github.com/alxlima/MizuxeBookTheme/blob/main/prints/00.gif" width="256" />
 </div>    
 
 ### 📊 Statistics

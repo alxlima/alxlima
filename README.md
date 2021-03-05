@@ -28,13 +28,12 @@ Thank you for visiting my profile here on github and for wanting to know a littl
 <div>
   <img src="https://github.com/alxlima/Glozzom/blob/main/screens_shot/00.gif" width="256" />
   <img src="https://github.com/alxlima/MizuxeBookTheme/blob/main/prints/00.gif" width="256" />
-  <img src="https://github.com/alxlima/MizuxeBookTheme/blob/main/prints/00.gif" width="256" />
-  <img src="https://github.com/alxlima/MizuxeBookTheme/blob/main/prints/00.gif" width="256" />
+  <img src="https://github.com/alxlima/DevFinance/blob/master/prints/00.gif" width="256" />
+  <img src="https://github.com/alxlima/Moveit-next/blob/main/screen_shots/01.gif" width="256" />
+  <img src="https://github.com/alxlima/Happy/blob/master/prints/05.gif" width="256" />
+  <img src="https://https://github.com/alxlima/LoopLAB/blob/master/prints/00.gif" width="256" />
 </div>
-<div>  
-  <img src="https://github.com/alxlima/MizuxeBookTheme/blob/main/prints/00.gif" width="256" />
-</div>    
-
+  
 ### 📊 Statistics
 
 ![](https://komarev.com/ghpvc/?username=alxlima&color=blue&style=flat)

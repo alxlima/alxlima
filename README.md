@@ -24,6 +24,10 @@ Thank you for visiting my profile here on github and for wanting to know a littl
 [skype]: https://join.skype.com/invite/qVJuRbOrbqKG
 
 
+## 🎬 Examples of Work
+<img src="https://github.com/alxlima/Glozzom/blob/main/screens_shot/00.gif" width="256" />
+<img src="https://github.com/alxlima/MizuxeBookTheme/blob/main/prints/00.gif" width="256" />
+
 ### 📊 Statistics
 
 ![](https://komarev.com/ghpvc/?username=alxlima&color=blue&style=flat)

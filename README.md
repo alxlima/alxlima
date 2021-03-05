@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Alex Lima, I live in the city of Hortolândia-sp, in the state of São Paulo, Brazil.
+I am a PL Programmer developer and systems analyst working with almost 8 years of experience with technical and functional analysis, on business rules of the Elektric Energy market. I develop desktop solutions with Delphi and several databases, including Firebird, Oracle, MySql, among others.  I am currently focused on learning, Front-End, JavaScript and migrating to Web development, using the best technologies on the market.
+Thank you for visiting my profile here on GitHub and for wanting to know a little more about me, my works and projects.
+
 <!--
 **alxlima/alxlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

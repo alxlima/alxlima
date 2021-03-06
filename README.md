@@ -7,7 +7,7 @@
     width="100%" height="200px"> -->
 
 <img src="screens_shot/AlxLima_Banner.gif" alt="AlexLima_Profile"
-width="100%">
+width="100%" height="250px">
 </div>
 
 <!--------------My Biografi------------------------->
@@ -78,7 +78,7 @@ Thank you for visiting my profile here on github and for wanting to know a littl
    <img src="./assets/bootstrap.svg" width="30px">&ensp;&ensp;
    <img src="./assets/html5.svg" width="30px">&ensp;&ensp;
    <img src="./assets/css3.svg" width="30px"> &ensp;&ensp;
-   <img src="./assets/plsql_developer.png" width="31px">&ensp;&ensp;
+   <img src="./assets/plsql2.png" width="31px">&ensp;&ensp;
    <img src="./assets/oracle3.svg" width="80px">&ensp;&ensp;
    <img src="./assets/mysql.svg" width="30px">&ensp;&ensp;
    <img src="./assets/firebird.svg" width="30px">&ensp;&ensp;
@@ -94,12 +94,13 @@ Thank you for visiting my profile here on github and for wanting to know a littl
    <img src="./assets/sublimetext.svg" width="35px">&ensp;&ensp;
    <img src="./assets/eclipse.svg" width="30px">&ensp;&ensp;
    <img src="./assets/jira.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/sourcetree.svg" width="30px">&ensp;&ensp;
    <img src="./assets/git.svg" width="30px">&ensp;&ensp;
    <img src="./assets/github.svg" width="30px">&ensp;&ensp;
    <img src="./assets/Insomnia.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/sourcetree.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/notion.png" width="30px">&ensp;&ensp;
    <img src="./assets/figma.svg" width="20px">&ensp;&ensp;
+   <img src="./assets/notion.png" width="30px">&ensp;&ensp;
+   
 </div>
 <br>
 

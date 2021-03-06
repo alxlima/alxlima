@@ -1,13 +1,13 @@
 <!--------------Show Case Profile------------------>
-<div aling="center">
+<!-- <div aling="center">
    <img src="screens_shot/AlxLima_Banner.gif" alt="AlexLima_Profile"
     width="600px" height="200px">
 
 <img src="screens_shot/AlxLima_Banner.gif" alt="AlexLima_Profile"
-    width="100%" height="200px">
+    width="100%" height="200px"> -->
 
-<!-- <img src="screens_shot/AlxLima_Banner.gif" alt="AlexLima_Profile"
-width="100%"> -->
+<img src="screens_shot/AlxLima_Banner.gif" alt="AlexLima_Profile"
+width="100%">
 </div>
 
 <!--------------My Biografi------------------------->

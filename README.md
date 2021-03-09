@@ -1,9 +1,9 @@
 <!--------------Show Case Profile------------------>
 <!-- <div aling="center">
    <img src="screens_shot/AlxLima_Banner.gif" alt="AlexLima_Profile"
-    width="600px" height="200px">
+    width="600px" height="200px"-->
 
-<img src="screens_shot/AlxLima_Banner.gif" alt="AlexLima_Profile"
+<!--img src="screens_shot/AlxLima_Banner.gif" alt="AlexLima_Profile"
     width="100%" height="200px"> -->
 
 <img src="screens_shot/AlxLima_Banner.gif" alt="AlexLima_Profile"

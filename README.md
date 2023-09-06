@@ -17,7 +17,7 @@ I am a PL Programmer developer and systems analyst working with almost 8 years o
 Thank you for visiting my profile here on github and for wanting to know a little more about me, my works and projects.
 
 ## 🎓 Skills and Experience
-- 🏢 Hi I’m currently working at [Indra](https://www.indracompany.com/pt-br/indra) developing on Delphi and Oracle eventually  on Mobile C# and in my free time i'm working on my Ecommerce Platform, using PHP and JavaScript.
+- 🏢 Hi I’m currently working at [Techne](https://www.techne.com.br/) developing application using tools Cronos (High-Code/Low-Code) for web systems, and development of PL/SQL - Oracle soluctions, SQL data management, eventually on Java and JavaScript. In my free time i'm working on my Ecommerce Platform, using PHP and JavaScript.
 - 📘 I’m currently learning **JavaScript**, **NextJs**, **NodeJs**, **TypeScript**, **ReactJs**, **Low-Code@OutSystems**, **Java**, **Chat-Bot** and **PHP** 
 - ⚙️ Mastering: `.pas`,`.sql`,`.html`,`.css`
 - 💻 I'm mostly active within the **HTML**, **CSS**, **PHP**, **JavaScript**, **NodeJs** and **Delphi** communities
